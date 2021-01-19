@@ -17,3 +17,17 @@ span{
     color: indianred;
     font-size: 30px;
 }
+body{
+    border: 1px solid black;
+    width: 90%;
+    margin: 0 auto;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    color: blue;
+    padding: 5px;
+}
