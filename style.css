@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    color:gray;
+    background-color: rgb(18, 230, 159);
+    width: 75%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px 0 gray;
+    font-size: 50px;
+    border-radius: 10px;
+}
+span{
+    color: indianred;
+    font-size: 30px;
+}
