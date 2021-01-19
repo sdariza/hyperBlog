@@ -31,3 +31,10 @@ p{
     color: blue;
     padding: 5px;
 }
+footer{
+  text-align: center;
+  font-size: 22px;
+  background-color: gray ;
+  color: white;
+  font-family: cursive;
+}
