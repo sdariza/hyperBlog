@@ -14,6 +14,12 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para 
 
 Experimento 1
 
+<<<<<<< HEAD
 master 1
 
 master 2
+=======
+experimento 2
+
+master 1
+>>>>>>> d959d96 (experimento 2)
